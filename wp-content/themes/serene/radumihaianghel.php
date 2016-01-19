@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Sebi's Demo Page
+ * Template Name: Radu Mihai Anghel's Page
  * @package Serene
  * @since Serene 1.0
  */
